@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalMadness
-- 👀 I’m interested in ... teaching, chess, STEM, Python.
+- 👀 I’m interested in ... STEM, chess.
 - 🌱 I’m currently learning ... more about Javascript, CSS, and HTML5.
-- 💞️ I’m looking to collaborate on ... coding educational programs (high school science simulations)
+- 💞️ I’m looking to collaborate on ... not much right now! Life is busy :-)
 - 📫 How to reach me ... thatchessguy@gmail.com
 
 <!---
